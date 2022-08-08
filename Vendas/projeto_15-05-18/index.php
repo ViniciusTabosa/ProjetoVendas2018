@@ -38,9 +38,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			<form name="f1" method="POST" action="login.php">
 			
 			<div class="username">
-
 				<span class="username"><i class="fa fa-user"></i> Usuário:</span>
-				
 				<input type="text" name="usuario" class="name" placeholder="Informe seu Usuário" required="">
 				<div class="clearfix"></div>
 			</div>
