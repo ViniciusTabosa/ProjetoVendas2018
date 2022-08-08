@@ -34,15 +34,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 	<div class="main-wthree">
 	<div class="container">
 	<div class="sin-w3-agile">
-		
-
-	
 		<h2>Login</h2>
-		
-		
-		
-		
-		<form name="f1" method="POST" action="login.php">
+			<form name="f1" method="POST" action="login.php">
 			
 			<div class="username">
 
@@ -58,18 +51,13 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			</div>
 			
 			<div>
-					
-					<center><input type="submit" class="login" value="Entrar"></center>
-
+				<center><input type="submit" class="login" value="Entrar"></center>
 			</div>
 			<div class="clearfix"></div>
 		</form>
-			
-					
-					
-				<div class="footer">
-					<p> &copy; <?php echo date('Y')?> | 3º Informática. Todos os direitos reservados | Design by <a href="http://w3layouts.com">W3layouts</a></p>
-				</div>
+			<div class="footer">
+				<p> &copy; <?php echo date('Y')?> | 3º Informática. Todos os direitos reservados | Design by <a href="http://w3layouts.com">W3layouts</a></p>
+			</div>
 	</div>
 	</div>
 	</div>
